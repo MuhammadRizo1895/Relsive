@@ -1,0 +1,19 @@
+h1,h2,h3,h4,h5,h6,a{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.1;
+}
+p{
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: rgba(115, 115, 115, 1);
+}
+ul{
+  list-style-type: none;
+}
+
+$theme-colors: (
+  "colorMain": #0D5C63,
+  "colorTwo":#FF7B47,
+  "colorThree": #252B42
+);
